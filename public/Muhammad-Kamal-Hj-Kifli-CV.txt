@@ -1,0 +1,142 @@
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█  ██████  ██   ██       ███████ ██    ██ ███████ ████████ ███████ ███    ███  █
+█ ██       ██   ██       ██       ██  ██  ██         ██    ██      ████  ████  █
+█ ██       ██   ██ █████ ███████   ████   ███████    ██    █████   ██ ████ ██  █
+█ ██       ██   ██            ██    ██         ██    ██    ██      ██  ██  ██  █
+█  ██████   █████        ███████    ██    ███████    ██    ███████ ██      ██  █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          MUHAMMAD KAMAL HJ KIFLI                            ║
+║                         Digital Marketing Specialist                        ║
+║                         kiddkifli@gmail.com | +6737447226                   ║
+║                            Brunei Darussalam                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+$ cat /etc/profile
+════════════════════════════════════════════════════════════════════════════════
+
+SYSTEM SUMMARY:
+───────────────
+I am a highly motivated and adaptable professional with robust marketing skills 
+and diverse experience in digital marketing, brand visibility, and content 
+creation. I aim to leverage my strong marketing skills, visual communication 
+expertise, and proactive approach to make a significant contribution wherever 
+I plant foot into.
+
+$ ls -la /usr/bin/strengths/
+════════════════════════════════════════════════════════════════════════════════
+
+total 3
+drwxr-xr-x  2 mkifli mkifli 4096 2024 strengths/
+-rwxr-xr-x  1 mkifli mkifli  256 2024 analytical_thinker*
+-rwxr-xr-x  1 mkifli mkifli  256 2024 deadline_oriented*
+-rwxr-xr-x  1 mkifli mkifli  256 2024 creative_thinker*
+
+► Analytical Thinker    : Strong analytical skills for marketing data interpretation
+► Deadline Oriented     : Proven ability to work under pressure and meet deadlines
+► Creative Thinker      : Creative approach to problem-solving and content creation
+
+$ history | grep experience
+════════════════════════════════════════════════════════════════════════════════
+
+[2024] Administrative Secretary (FAC/212 - Finance)
+       Brunei Shell Petroleum Co. Sdn. Bhd.
+       ├── Organized and maintained financial records for compliance
+       ├── Ensured smooth document retrieval and compliance
+       └── Improved workflow efficiency with structured filing system
+
+[2024] Digital Marketing Analyst
+       BUE Enterprise
+       ├── Integrated AI tools into digital marketing strategies
+       ├── Significantly improved workflow efficiency by 30%+
+       └── Implemented data-driven decision making for campaigns
+
+[2023] Visual Marketing Assistant
+       The Kugelblitz
+       ├── Created compelling visual content for brand identity
+       └── Enhanced communication through strategic visual campaigns
+
+[2023] Marketing & Design Administrator
+       BTHC Moshware
+       ├── Developed impactful marketing materials for brand visibility
+       └── Collaborated with cross-functional teams for customer engagement
+
+[2022] IT Support Analyst
+       CIC Environmental Services Sdn Bhd
+       ├── Provided timely technical support with minimal disruption
+       └── Assisted in cloud-based platform transition for security
+
+[2021] Logistic Operation Supervisor
+       Brunei LNG Sdn Bhd
+       ├── Monitored and maintained plant operations with safety protocols
+       └── Streamlined plant procedures for efficient workflows
+
+[2020] Hoisting Equipment Rigger
+       Megalift Sdn Bhd
+       ├── Maintained high safety standards in equipment handling
+       └── Prevented operational hazards through proper procedures
+
+$ cat /var/log/achievements.log
+════════════════════════════════════════════════════════════════════════════════
+
+[SUCCESS] AI Integration in Marketing
+          Successfully integrated AI tools into marketing strategies that 
+          improved workflow efficiency by over 30%
+
+[SUCCESS] Comprehensive Marketing Campaign
+          Developed a marketing campaign that increased brand engagement 
+          by 25%
+
+$ uname -a education
+════════════════════════════════════════════════════════════════════════════════
+
+Level 5 Diploma in Network and Security
+├── Institution: Politeknik Brunei
+├── Location: Brunei Darussalam
+└── Status: Recent Graduate
+
+7 O Levels in Pure Science
+├── Institution: SMPW KB
+├── Location: Brunei Darussalam
+└── Achievement: Strong foundation in sciences
+
+$ cat /etc/languages
+════════════════════════════════════════════════════════════════════════════════
+
+LANG=en_US.UTF-8    # English (Fluent)
+LANG=ms_BN.UTF-8    # Malay (Native)
+
+$ ps aux | grep skills
+════════════════════════════════════════════════════════════════════════════════
+
+mkifli   1001  0.0  digital_marketing      [active]
+mkifli   1002  0.0  brand_visibility       [active]
+mkifli   1003  0.0  content_creation       [active]
+mkifli   1004  0.0  visual_communication   [active]
+mkifli   1005  0.0  data_analysis          [active]
+mkifli   1006  0.0  ai_integration         [active]
+mkifli   1007  0.0  workflow_optimization  [active]
+
+$ echo "Contact Information"
+════════════════════════════════════════════════════════════════════════════════
+
+Email    : kiddkifli@gmail.com
+Phone    : +6737447226
+Location : Brunei Darussalam
+LinkedIn : Available upon request
+Portfolio: Professional cybersecurity portfolio available
+
+$ date && echo "CV Generated Successfully"
+════════════════════════════════════════════════════════════════════════════════
+
+2024 - Professional CV System v2.0
+CV Generated Successfully
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  [END OF FILE] - Muhammad Kamal Hj Kifli Professional Profile Complete      ║
+║  System Status: READY FOR DEPLOYMENT                                        ║
+║  Security Level: AUTHENTICATED                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
